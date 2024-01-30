@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@graphql-tools/schema": "^10.0.2",
+    "graphql-constraint-directive": "^5.3.0",
+    "graphql-tag": "^2.12.6"
+  }
+}
